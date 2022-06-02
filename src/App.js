@@ -60,7 +60,6 @@ function App() {
         <p>
           Hãy chọn một số trong khoảng 1 đến 100, bạn có thể đoán đúng số bị ẩn?
         </p>
-        <p>{NumberRandom}</p>
       </div>
 
       <div className="body">
